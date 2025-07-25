@@ -1,6 +1,7 @@
 # CI/CD Templates
 
-This repository contains the **core reusable workflow logic** used by wrapper workflows in other repositories to implement secure and standardized CI/CD pipelines.
+This repository contains the **core reusable workflow logic** used by [wrapper workflows](https://github.com/AmanjotSinghSaini/cicd-wrapper) in other repositories to implement secure and standardized CI/CD pipelines.
+
 
 ## What's Inside
 
